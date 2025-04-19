@@ -50,10 +50,28 @@
 
 ---
 
-## 📸 Demo
 
-*Coming soon: Screenshots or a demo video to illustrate functionality.*
+![image](https://github.com/user-attachments/assets/cd2a3d5a-45a1-4482-b130-98438b85b584)
 
+![image](https://github.com/user-attachments/assets/97bb28ff-d958-4de8-829c-3160a3e10488)
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
+
+
+
+
+---
+## 🧠 Future Enhancements
+AI-based advanced summarization (LLMs like GPT)
+
+Tagging and organizing saved notes
+
+Exporting notes to PDF/Markdown
+
+User authentication and syncing across devices
 ---
 
 ## 📦 Installation & Setup
@@ -65,11 +83,4 @@ cd backend
 
 
 
-##🧠 Future Enhancements
-AI-based advanced summarization (LLMs like GPT)
 
-Tagging and organizing saved notes
-
-Exporting notes to PDF/Markdown
-
-User authentication and syncing across devices
